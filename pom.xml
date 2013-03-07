@@ -7,7 +7,7 @@
   </parent>
   <modelVersion>4.0.0</modelVersion>
   <artifactId>webapp-javaee7</artifactId>
-  <version>0.1-SNAPSHOT</version>
+  <version>0.2-SNAPSHOT</version>
   <packaging>maven-archetype</packaging>
   <name>Java EE 7 WAR Archetype</name>
   <description>Archetype for a web application using Java EE 7.</description>
