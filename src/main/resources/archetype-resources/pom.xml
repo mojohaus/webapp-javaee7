@@ -29,7 +29,8 @@
         <dependency>
             <groupId>javax</groupId>
             <artifactId>javaee-web-api</artifactId>
-            <version>7.0-b78</version>
+            <version>7.0-b83</version>
+            <scope>provided</scope>
         </dependency>
     </dependencies>
 
@@ -72,7 +73,7 @@
                                 <artifactItem>
                                     <groupId>javax</groupId>
                                     <artifactId>javaee-endorsed-api</artifactId>
-                                    <version>7.0-b78</version>
+                                    <version>7.0-b83</version>
                                     <type>jar</type>
                                 </artifactItem>
                             </artifactItems>
